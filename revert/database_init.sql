@@ -1,0 +1,1 @@
+-- Revert sbgplants:database_init from pg
